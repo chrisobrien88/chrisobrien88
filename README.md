@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400" height="200"/>
 </div>
 
 - :zap: Software Dev based in Stockholm.
