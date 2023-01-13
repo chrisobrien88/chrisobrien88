@@ -6,7 +6,7 @@
 
 Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Stockholm.
 
-- :zap: Graduate of <a href="https://www.salt.dev/sv-SE">SALT</a> JS bootcamp 2022.
+- :zap: Graduate of <a target="blank" href="https://www.salt.dev/sv-SE">SALT</a> JS bootcamp 2022.
 
 - :telescope: Focusing on FE and TS.
 
