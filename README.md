@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me :
 
-Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Stockholm.
+Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Stockholm.
 
 - :zap: Graduate of <a target="blank" href="https://www.salt.dev/sv-SE">SALT</a> JS bootcamp 2022.
 
