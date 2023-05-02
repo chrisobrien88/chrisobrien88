@@ -55,9 +55,3 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <table>
 <div>
 
-  <div align='center'>
-
-![](https://komarev.com/ghpvc/?username=chrisobrien88&label=Profile+Views)
-
-</div>
-
