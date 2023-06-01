@@ -30,28 +30,3 @@ Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-# GitHub Stats 📊
-
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/chrisobrien88">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisobrien88&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="My GitHub Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/chrisobrien88">
-            <img src="https://github-readme-stats.vercel.app/api?username=chrisobrien88&show_icons=true&hide=stars&hide_border=true" alt="My GitHub Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
-
