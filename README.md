@@ -8,7 +8,7 @@ Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: Graduate of <a target="blank" href="https://www.salt.dev/sv-SE">SALT</a> JS bootcamp 2022.
 
-- :telescope: Focusing on FE and TS. Currently working on "Salt Hub" - an internal platform for the </SALT> sales team.
+- :telescope: Teamwork makes the dream work. My passion lies in collaborating with people in order to make the best product possible.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChrisOBrien-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-o-brien-314791212/)
 
