@@ -12,3 +12,7 @@ Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChrisOBrien-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-o-brien-314791212/)
 
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisobrien88&layout=compact&theme=transparent" /></a>
+</div>
+
