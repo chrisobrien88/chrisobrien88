@@ -12,6 +12,8 @@ Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ChrisOBrien-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chris-o-brien-314791212/)
 
+- 🕸️ My portfolio <a target="blank" href="https://chrisobrienportfolio-lime.vercel.app/">Portfolio</a>
+
 ### Languages and Tools:
 
 <div align="center">
